@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">socialManagement</string>
+    <string name="reset">Reset</string>
+    <string name="social_sparks">Social Sparks</string>
+    <string-array name="timeOfDay">
+        <item>Select Time</item>
+        <item>morning</item>
+        <item>Mid-morning</item>
+        <item>Afternoon</item>
+        <item>Afternoon Snack Time</item>
+        <item>Dinner</item>
+        <item>After Dinner</item>
+    </string-array>
+</resources>
